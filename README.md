@@ -4,7 +4,7 @@
 - Michelle Moody: Project report, graffiti & pothole analysis, final Jupyter notebook
 - Wayne Mitchell: EDA, clean all csv files, statistical tests, linreg figures
 - Yiran Zhang: CSV pulls, vacancy analysis, repo clean, README, slide deck
-- Deidra Lebron: Crime graphic, pothole research
+- Deidra Lebron: CSV pulls, Crime graphic, pothole research, latitude and longitude chart 
 
 ## Introduction
 This project came about from a mutual interest in the City of Chicago's crime reports. Our team wanted to take a deeper look at the possible variables associated with crime in our city and their connections to other factors of interest such as infrastructure, locations, ward spending, etc. We sought to answer the question, "Do areas with a higher concentration of infrastructure issues also report higher crime rates?"
